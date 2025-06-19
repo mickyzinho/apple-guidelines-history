@@ -1,4 +1,4 @@
-# apple-guidelines-history
+# Apple Guidelines and Developer Agreements History
 A history of Apples Developer Program License Agreement and App Review Guidelines
 
 # Disclaimer
